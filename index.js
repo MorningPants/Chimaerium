@@ -4,9 +4,26 @@ let Mammals, Birds,  Reptiles_Amphibians, Aquatic_Vertebrates, Insectoids, Aqu
 
 
 /* need to use desktop to initialize all these objects
- Humanoid = {name: "Humanoid"}
- Chimpanzee = {name:  "Chimpanzee"}
- Gorilla = {name:  }
+ Humanoid = {
+ name: "Humanoid"
+ features: []
+ weight: 150
+ lifespan: 70
+ }
+ 
+ 
+ Chimpanzee = {
+ name:  "Chimpanzee"
+ features: []
+ weight: 150
+ lifespan: 70
+ }
+ Gorilla = {
+ name:  "Gorilla"
+ features: []
+ weight: 150
+ lifespan: 70
+ }
 Baboon = {name:  }
 Spider_Monkey= {name:  }
 Bonobo, Lemur, Macaque, Aye_Aye, Bush_Baby, Loris, Howler_Monkey,  Capuchin, Squirrel_Monkey, Orangutan, Gibbon, Rare_Primates, Proboscis_Monkey, Talpoin, Vervet, Snub_Nosed_Langur, Titi, Ukari, Saki, Hamadryas, Colobus, Douc, Guenon, Mandrill, Potto, Mangabey, Tarsier, Durukuli, Wooly_Monkey, Marmoset, Housecats, Dog_Breeds, Big_Cats, Wolf, Bears, Skunk, Otter, Wolverine, Hyena, Red_Panda, Raccoon, Weasel, Ferret, Mongoose, Fox, Badger, Marten, Coyote, Coati, Civet, Linsang, Mink, Jackal, Grison, Polecat, Hog_Badger, Stoat, Meerkat, Aardwolf, Tiger, Lion, Panther, Cougar, Jaguar, Cheetah, Lynx, Grizzly, Polar_Bear, Sun_Bear, Panda, Black_Bear, Elephant, Rhinoceros, Hippopotamus*/
