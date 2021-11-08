@@ -246,440 +246,434 @@ Gorilla = {
   lifespan: 70,
 };
 Baboon = {
-  name: "",
+  name: "Baboon",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 
 Spider_Monkey = {
-  name: "",
+  name: "Spider Monkey",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Bonobo = {
-  name: "",
+  name: "Bonobo",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Lemur = {
-  name: "",
+  name: "Lemur",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Macaque = {
-  name: "",
+  name: "Macaque",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Aye_Aye = {
-  name: "",
+  name: "Aye-Aye",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Bush_Baby = {
-  name: "",
+  name: "Bush Baby",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Loris = {
-  name: "",
+  name: "Loris",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Howler_Monkey = {
-  name: "",
+  name: "Howler Monkey",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Capuchin = {
-  name: "",
+  name: "Capuchin",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Squirrel_Monkey = {
-  name: "",
+  name: "Squirrel Monkey",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Orangutan = {
-  name: "",
+  name: "Orangutan",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Gibbon = {
-  name: "",
-  features: [],
-  weight: 0,
-  lifespan: 0,
-};
-Rare_Primates = {
-  name: "",
+  name: "Gibbon",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Proboscis_Monkey = {
-  name: "",
+  name: "Proboscis Monkey",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Talpoin = {
-  name: "",
+  name: "Talpoin",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Vervet = {
-  name: "",
+  name: "Vervet",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Snub_Nosed_Langur = {
-  name: "",
+  name: "Snub-Nosed Langur",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Titi = {
-  name: "",
+  name: "Titi",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Ukari = {
-  name: "",
+  name: "Ukari",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Saki = {
-  name: "",
+  name: "Saki",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Hamadryas = {
-  name: "",
+  name: "Hamadryas",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Colobus = {
-  name: "",
+  name: "Colobus",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Douc = {
-  name: "",
+  name: "Douc",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Guenon = {
-  name: "",
+  name: "Guenon",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Mandrill = {
-  name: "",
+  name: "Mandrill",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Potto = {
-  name: "",
+  name: "Potto",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Mangabey = {
-  name: "",
+  name: "Mangabey",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Tarsier = {
-  name: "",
+  name: "Tarsier",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Durukuli = {
-  name: "",
+  name: "Durukuli",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Wooly_Monkey = {
-  name: "",
+  name: "Wooly Monkey",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Marmoset = {
-  name: "",
+  name: "Marmoset",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Wolf = {
-  name: "",
+  name: "Wolf",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Bears = {
-  name: "",
+  name: "Bears",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Skunk = {
-  name: "",
+  name: "Skunk",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Otter = {
-  name: "",
+  name: "Otter",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Wolverine = {
-  name: "",
+  name: "Wolverine",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Hyena = {
-  name: "",
+  name: "Hyena",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Red_Panda = {
-  name: "",
+  name: "Red Panda",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Raccoon = {
-  name: "",
+  name: "Raccoon",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Weasel = {
-  name: "",
+  name: "Weasel",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Ferret = {
-  name: "",
+  name: "Ferret",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Mongoose = {
-  name: "",
+  name: "Mongoose",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Fox = {
-  name: "",
+  name: "Fox",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Badger = {
-  name: "",
+  name: "Badger",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Marten = {
-  name: "",
+  name: "Marten",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Coyote = {
-  name: "",
+  name: "Coyote",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Coati = {
-  name: "",
+  name: "Coati",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Civet = {
-  name: "",
+  name: "Civet",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Linsang = {
-  name: "",
+  name: "Linsang",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Mink = {
-  name: "",
+  name: "Mink",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Jackal = {
-  name: "",
+  name: "Jackal",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Grison = {
-  name: "",
+  name: "Grison",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Polecat = {
-  name: "",
+  name: "Polecat",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Hog_Badger = {
-  name: "",
+  name: "Hog Badger",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Stoat = {
-  name: "",
+  name: "Stoat",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Meerkat = {
-  name: "",
+  name: "Meerkat",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Aardwolf = {
-  name: "",
+  name: "Aardwolf",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Tiger = {
-  name: "",
+  name: "Tiger",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Lion = {
-  name: "",
+  name: "Lion",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Panther = {
-  name: "",
+  name: "Panther",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Cougar = {
-  name: "",
+  name: "Cougar",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Jaguar = {
-  name: "",
+  name: "Jaguar",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Cheetah = {
-  name: "",
+  name: "Cheetah",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Lynx = {
-  name: "",
+  name: "Lynx",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Grizzly = {
-  name: "",
+  name: "Grizzly Bear",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Polar_Bear = {
-  name: "",
+  name: "Polar Bear",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Sun_Bear = {
-  name: "",
+  name: "Sun Bear",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Panda = {
-  name: "",
+  name: "Panda",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Black_Bear = {
-  name: "",
+  name: "Black Bear",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Elephant = {
-  name: "",
+  name: "Elephant",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Rhinoceros = {
-  name: "",
+  name: "Rhinoceros",
   features: [],
   weight: 0,
   lifespan: 0,
 };
 Hippopotamus = {
-  name: "",
+  name: "Hippopotamus",
   features: [],
   weight: 0,
   lifespan: 0,
