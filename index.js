@@ -895,4 +895,31 @@ let Animals = [
   Aquatic_Invertebrates,
 ];
 
-console.log({ Animals });
+
+
+isArray = (a) => !!a && a.constructor === Array;
+isObject = (a) => !!a && a.constructor === Object;
+
+randomArrayItem = (array) => {
+  if (isArray(array)) {
+    return array[Math.floor(Math.random() * array.length)];
+  }
+  else 'error'
+};
+
+let randomKingdom = randomArrayItem(Animals);
+let randomFamily = randomArrayItem(randomKingdom);
+function randomAnimal(family) {
+    let familyMember = randomArrayItem(family);
+    if (isObject(familyMember)) {
+        familyMember.name;
+    } else if (isArray(familyMember)) {
+        randomArrayItem(familyMember).name;
+    } else
+        "error";
+}
+
+generateChimera = () =>
+  (document.getElementById("01").innerHTML = randomAnimal(Primates));
+
+  console.log((randomArrayItem(Primates)));
