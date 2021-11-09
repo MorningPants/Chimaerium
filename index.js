@@ -988,6 +988,6 @@ function randomAnimal(family) {
 }
 
 generateChimera = () =>
-  (document.getElementById("01").innerHTML = `${randomAnimal(Primates)} - ${randomAnimal(Primates)} `);
+  (document.getElementById("01").innerHTML = `${randomAnimal(Animals.flat(Infinity))} - ${randomAnimal(Animals.flat(Infinity))} `);
 
-  console.log(`${randomAnimal(Primates)} - ${randomAnimal(Primates)} `);
+  console.log(`${randomAnimal(Animals.flat(Infinity))} - ${randomAnimal(Animals.flat(Infinity))} `);
