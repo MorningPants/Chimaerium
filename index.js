@@ -761,28 +761,70 @@ Carnivores = [
   Aardwolf,
 ];
 
-Rodents = [];
-Aquatic_Mammals = [];
+Rodents = [
+Rat,
+Beaver,
+Nutria,
+Mouse,
+Squirrel,
+Hamster,
+Guinea_Pig,
+Capibara,
+Groundhog,
+Gopher,
+Flying_Squirrel,
+Marmot,
+Chinchilla,
+Marmot,
+Muskrat,
+Naked_Mole_Rat,
+Lemming,
+Kangaroo_Rat,
+Vole,
+Paca,
+Porcupine,
+Gerboa
+];
+Aquatic_Mammals = [
+Dolphin,
+Seal,
+Whales,
+Walrus, 
+Orca 
+];
 Bats = [];
-Horselike_Mammals = [];
+Horselike_Mammals = [
+Horse,
+Zebra,
+Cow,
+Bull,
+Giraffe,
+Deer,
+Elk,
+Ibix,
+Moose,
+Sheep,
+Goat,
+Llama
+];
 Behemoths = [Elephant, Rhinoceros, Hippopotamus];
-Sloths = [];
-Wallabies = [];
+Sloths = [Sloth, Anteater];
+Wallabies = [Koala, Kangaroo, Wallaby];
 Rabbits = [];
 Pigs = [];
-Armored_Mammals = [];
-Obscure_Mammals = [];
+Armored_Mammals = [Armadillo, Pangolin];
+Obscure_Mammals = [Platypus, Echidna];
  Songbirds= [];
-  Hunting_Birds= [];
-  Wading_Birds= [];
-  Flightless_Birds= [];
-  Tropical_Birds= [];
-  Swimming_Birds= [];
-  Hummingbirds= [];
-  Chickens= [];
-  Seabirds= [];
-  Large_Seabirds= [];
-  Common_Birds= [];
+  Hunting_Birds= [Eagle, Hawk, Falcon, Vulture, Osprey, Owl];
+  Wading_Birds= [Crane, Stork, Heron, Flamingo];
+  Flightless_Birds= [Ostrich, Emu, Dodo, Rhea, Cassowary];
+  Tropical_Birds= [Parrot];
+  Swimming_Birds= [Duck, Goose, Loon, Cormorant, Swan];
+  Hummingbirds= [Hummingbird];
+  Chickens= [Chicken];
+  Seabirds= [Seagull, Sandpiper];
+  Large_Seabirds= [Albatross, Pelican, Penguin, Puffin];
+  Common_Birds= [Finch, Jay, Cardinal, Swift];
   Snakes= [];
   Lizards= [];
   Turtles= [];
@@ -791,8 +833,13 @@ Obscure_Mammals = [];
   Salamanders= [];
   Thick_Finned_Fish= [];
   Thin_Finned_Fish= [];
-  Aquatic_Mammals= [];
-  Sharks= [];
+
+  Sharks= [
+  Hammerhead,
+  Great_White,
+  Whale_Shark,
+  
+  ];
   Lampreys= [];
   Jawless= [];
   Seahorses= [];
@@ -835,7 +882,7 @@ Obscure_Mammals = [];
   Cicadas= [];
    Octopi= [];
   Shrimp= [];
-  Crustaceans= [];
+  Crustaceans= [Crab, Lobster];
   Squid= [];
   Jellyfish= [];
   Urchins= [];
