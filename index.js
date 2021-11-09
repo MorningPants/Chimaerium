@@ -170,7 +170,92 @@ let Mammals,
   Black_Bear,
   Elephant,
   Rhinoceros,
-  Hippopotamus;
+  Hippopotamus,
+  Rat,
+  Beaver,
+  Nutria,
+  Mouse,
+  Squirrel,
+  Hamster,
+  Guinea_Pig,
+  Capibara,
+  Groundhog,
+  Gopher,
+  Flying_Squirrel,
+  Chinchilla,
+  Marmot,
+  Muskrat,
+  Naked_Mole_Rat,
+  Lemming,
+  Kangaroo_Rat,
+  Vole,
+  Paca,
+  Porcupine,
+  Gerboa,
+  Dolphin,
+  Seal,
+  Whales,
+  Walrus,
+  Orca,
+  Horse,
+  Zebra,
+  Cow,
+  Bull,
+  Giraffe,
+  Deer,
+  Elk,
+  Ibix,
+  Moose,
+  Sheep,
+  Goat,
+  Llama,
+  Sloth,
+  Anteater,
+  Koala,
+  Kangaroo,
+  Wallaby,
+  Armadillo,
+  Pangolin,
+  Platypus,
+  Echidna,
+  Eagle,
+  Hawk,
+  Falcon,
+  Vulture,
+  Osprey,
+  Owl,
+  Crane,
+  Stork,
+  Heron,
+  Flamingo,
+  Ostrich,
+  Emu,
+  Dodo,
+  Rhea,
+  Cassowary,
+  Parrot,
+  Duck,
+  Goose,
+  Loon,
+  Cormorant,
+  Swan,
+  Hummingbird,
+  Chicken,
+  Seagull,
+  Sandpiper,
+  Albatross,
+  Pelican,
+  Penguin,
+  Puffin,
+  Finch,
+  Jay,
+  Cardinal,
+  Swift,
+  Hammerhead,
+  Great_White,
+  Whale_Shark,
+  Crab,
+  Lobster;
 
 /*Declare all the features too*/
 
@@ -678,6 +763,518 @@ Hippopotamus = {
   weight: 0,
   lifespan: 0,
 };
+Rat = {
+  name: "Rat",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Beaver = {
+  name: "Beaver",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Nutria = {
+  name: "Nutria",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Mouse = {
+  name: "Mouse",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Squirrel = {
+  name: "Squirrel",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Hamster = {
+  name: "Hamster",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Guinea_Pig = {
+  name: "Guinea Pig",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Capibara = {
+  name: "Capibara",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Groundhog = {
+  name: "Groundhog",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Gopher = {
+  name: "Gopher",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Flying_Squirrel = {
+  name: "Flying Squirrel",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Chinchilla = {
+  name: "Chinchilla",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+
+Marmot = {
+  name: "Marmot",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Muskrat = {
+  name: "Muskrat",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Naked_Mole_Rat = {
+  name: "Naked Mole-Rat",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Lemming = {
+  name: "Lemming",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Kangaroo_Rat = {
+  name: "Kangaroo Rat",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Vole = {
+  name: "Vole",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Paca = {
+  name: "Paca",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Porcupine = {
+  name: "Porcupine",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Gerboa = {
+  name: "Gerboa",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Dolphin = {
+  name: "Dolphin",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Seal = {
+  name: "Seal",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Whales = {
+  name: "Whales",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Walrus = {
+  name: "Walrus",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+
+Orca = {
+  name: "Orca",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Horse = {
+  name: "Horse",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Zebra = {
+  name: "Zebra",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Cow = {
+  name: "Cow",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Bull = {
+  name: "Bull",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Giraffe = {
+  name: "Giraffe",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Deer = {
+  name: "Deer",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Elk = {
+  name: "Elk",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Ibix = {
+  name: "Ibix",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Moose = {
+  name: "Moose",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Sheep = {
+  name: "Sheep",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Goat = {
+  name: "Goat",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Llama = {
+  name: "Llama",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Sloth = {
+  name: "Sloth",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Anteater = {
+  name: "Anteater",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Koala = {
+  name: "Koala",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Kangaroo = {
+  name: "Kangaroo",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Wallaby = {
+  name: "Wallaby",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Armadillo = {
+  name: "Armadillo",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Pangolin = {
+  name: "Pangolin",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Platypus = {
+  name: "Platypus",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Echidna = {
+  name: "Echidna",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Eagle = {
+  name: "Eagle",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Hawk = {
+  name: "Hawk",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Falcon = {
+  name: "Falcon",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Vulture = {
+  name: "Vulture",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Osprey = {
+  name: "Osprey",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Owl = {
+  name: "Owl",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Crane = {
+  name: "Crane",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Stork = {
+  name: "Stork",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Heron = {
+  name: "Heron",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Flamingo = {
+  name: "Flamingo",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Ostrich = {
+  name: "Ostrich",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Emu = {
+  name: "Emu",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Dodo = {
+  name: "Dodo",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Rhea = {
+  name: "Rhea",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Cassowary = {
+  name: "Cassowary",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Parrot = {
+  name: "Parrot",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Duck = {
+  name: "Duck",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Goose = {
+  name: "Goose",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Loon = {
+  name: "Loon",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Cormorant = {
+  name: "Cormorant",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Swan = {
+  name: "Swan",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Hummingbird = {
+  name: "Hummingbird",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Chicken = {
+  name: "Chicken",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Seagull = {
+  name: "Seagull",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Sandpiper = {
+  name: "Sandpiper",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Albatross = {
+  name: "Albatross",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Pelican = {
+  name: "Pelican",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Penguin = {
+  name: "Penguin",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Puffin = {
+  name: "Puffin",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Finch = {
+  name: "Finch",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Jay = {
+  name: "Jay",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Cardinal = {
+  name: "Cardinal",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Swift = {
+  name: "Swift",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Hammerhead = {
+  name: "Hammerhead Shark",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Great_White = {
+  name: "Great White Shark",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Whale_Shark = {
+  name: "Whale Shark",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Crab = {
+  name: "Crab",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
+Lobster = {
+  name: "Lobster",
+  features: [],
+  weight: 0,
+  lifespan: 0,
+};
 
 /*first organize by microtype*/
 
@@ -744,7 +1341,12 @@ Carnivores = [
   Weasel,
   Ferret,
   Mongoose,
-  Fox,
+  (Fox = {
+    name: "",
+    features: [],
+    weight: 0,
+    lifespan: 0,
+  }),
   Badger,
   Marten,
   Coyote,
@@ -762,50 +1364,43 @@ Carnivores = [
 ];
 
 Rodents = [
-Rat,
-Beaver,
-Nutria,
-Mouse,
-Squirrel,
-Hamster,
-Guinea_Pig,
-Capibara,
-Groundhog,
-Gopher,
-Flying_Squirrel,
-Marmot,
-Chinchilla,
-Marmot,
-Muskrat,
-Naked_Mole_Rat,
-Lemming,
-Kangaroo_Rat,
-Vole,
-Paca,
-Porcupine,
-Gerboa
+  Rat,
+  Beaver,
+  Nutria,
+  Mouse,
+  Squirrel,
+  Hamster,
+  Guinea_Pig,
+  Capibara,
+  Groundhog,
+  Gopher,
+  Flying_Squirrel,
+  Marmot,
+  Chinchilla,
+  Muskrat,
+  Naked_Mole_Rat,
+  Lemming,
+  Kangaroo_Rat,
+  Vole,
+  Paca,
+  Porcupine,
+  Gerboa,
 ];
-Aquatic_Mammals = [
-Dolphin,
-Seal,
-Whales,
-Walrus, 
-Orca 
-];
+Aquatic_Mammals = [Dolphin, Seal, Whales, Walrus, Orca];
 Bats = [];
 Horselike_Mammals = [
-Horse,
-Zebra,
-Cow,
-Bull,
-Giraffe,
-Deer,
-Elk,
-Ibix,
-Moose,
-Sheep,
-Goat,
-Llama
+  Horse,
+  Zebra,
+  Cow,
+  Bull,
+  Giraffe,
+  Deer,
+  Elk,
+  Ibix,
+  Moose,
+  Sheep,
+  Goat,
+  Llama,
 ];
 Behemoths = [Elephant, Rhinoceros, Hippopotamus];
 Sloths = [Sloth, Anteater];
@@ -814,85 +1409,80 @@ Rabbits = [];
 Pigs = [];
 Armored_Mammals = [Armadillo, Pangolin];
 Obscure_Mammals = [Platypus, Echidna];
- Songbirds= [];
-  Hunting_Birds= [Eagle, Hawk, Falcon, Vulture, Osprey, Owl];
-  Wading_Birds= [Crane, Stork, Heron, Flamingo];
-  Flightless_Birds= [Ostrich, Emu, Dodo, Rhea, Cassowary];
-  Tropical_Birds= [Parrot];
-  Swimming_Birds= [Duck, Goose, Loon, Cormorant, Swan];
-  Hummingbirds= [Hummingbird];
-  Chickens= [Chicken];
-  Seabirds= [Seagull, Sandpiper];
-  Large_Seabirds= [Albatross, Pelican, Penguin, Puffin];
-  Common_Birds= [Finch, Jay, Cardinal, Swift];
-  Snakes= [];
-  Lizards= [];
-  Turtles= [];
-  Alligators= [];
-  Frogs= [];
-  Salamanders= [];
-  Thick_Finned_Fish= [];
-  Thin_Finned_Fish= [];
+Songbirds = [];
+Hunting_Birds = [Eagle, Hawk, Falcon, Vulture, Osprey, Owl];
+Wading_Birds = [Crane, Stork, Heron, Flamingo];
+Flightless_Birds = [Ostrich, Emu, Dodo, Rhea, Cassowary];
+Tropical_Birds = [Parrot];
+Swimming_Birds = [Duck, Goose, Loon, Cormorant, Swan];
+Hummingbirds = [Hummingbird];
+Chickens = [Chicken];
+Seabirds = [Seagull, Sandpiper];
+Large_Seabirds = [Albatross, Pelican, Penguin, Puffin];
+Common_Birds = [Finch, Jay, Cardinal, Swift];
+Snakes = [];
+Lizards = [];
+Turtles = [];
+Alligators = [];
+Frogs = [];
+Salamanders = [];
+Thick_Finned_Fish = [];
+Thin_Finned_Fish = [];
 
-  Sharks= [
-  Hammerhead,
-  Great_White,
-  Whale_Shark,
-  
-  ];
-  Lampreys= [];
-  Jawless= [];
-  Seahorses= [];
-  Rays= [];
-  Spiders= [];
-  Dragonflies= [];
-  Flies= [];
-  Ants= [];
-  Beetles= [];
-  Bees= [];
-  Stickbugs= [];
-  Ticks= [];
-  Gnats= [];
-  Worms= [];
-  Pillbugs= [];
-  Snails= [];
-  Slugs= [];
-  Leeches= [];
-  Scorpions= [];
-  Butterflies= [];
-  Grasshoppers= [];
-  Lacewings= [];
-  Caddisflies= [];
-  Cockroaches= [];
-  Termites= [];
-  Thrips= [];
-  Lice= [];
-  Stoneflies= [];
-  Mayflies= [];
-  Mantis= [];
-  Flea= [];
-  Earwigs= [];
-  Scorpionflies= [];
-  Silverfish= [];
-  Aphids= [];
-  Spittlebugs= [];
-  Shieldbugs= [];
-  Planthoppers= [];
-  Thornbugs= [];
-  Cicadas= [];
-   Octopi= [];
-  Shrimp= [];
-  Crustaceans= [Crab, Lobster];
-  Squid= [];
-  Jellyfish= [];
-  Urchins= [];
-  Sponges= [];
-  Starfish= [];
-  Anemones= [];
-  Molluscs= [];
-  Barnacles= [];
-  Clams= [];
-  Sea_Cucumbers= [];
+Sharks = [Hammerhead, Great_White, Whale_Shark];
+Lampreys = [];
+Jawless = [];
+Seahorses = [];
+Rays = [];
+Spiders = [];
+Dragonflies = [];
+Flies = [];
+Ants = [];
+Beetles = [];
+Bees = [];
+Stickbugs = [];
+Ticks = [];
+Gnats = [];
+Worms = [];
+Pillbugs = [];
+Snails = [];
+Slugs = [];
+Leeches = [];
+Scorpions = [];
+Butterflies = [];
+Grasshoppers = [];
+Lacewings = [];
+Caddisflies = [];
+Cockroaches = [];
+Termites = [];
+Thrips = [];
+Lice = [];
+Stoneflies = [];
+Mayflies = [];
+Mantis = [];
+Flea = [];
+Earwigs = [];
+Scorpionflies = [];
+Silverfish = [];
+Aphids = [];
+Spittlebugs = [];
+Shieldbugs = [];
+Planthoppers = [];
+Thornbugs = [];
+Cicadas = [];
+Octopi = [];
+Shrimp = [];
+Crustaceans = [Crab, Lobster];
+Squid = [];
+Jellyfish = [];
+Urchins = [];
+Sponges = [];
+Starfish = [];
+Anemones = [];
+Molluscs = [];
+Barnacles = [];
+Clams = [];
+Sea_Cucumbers = [];
 
 /*finally organize by Kingdom*/
 
@@ -943,7 +1533,7 @@ Aquatic_Vertebrates = [
   Lampreys,
   Jawless,
   Seahorses,
-  Rays
+  Rays,
 ];
 
 Insectoids = [
@@ -1010,31 +1600,33 @@ let Animals = [
   Aquatic_Invertebrates,
 ];
 
-
-
 isArray = (a) => !!a && a.constructor === Array;
 isObject = (a) => !!a && a.constructor === Object;
 
 randomArrayItem = (array) => {
   if (isArray(array)) {
     return array[Math.floor(Math.random() * array.length)];
-  }
-  else return 'error'
+  } else return "error";
 };
 
 let randomKingdom = randomArrayItem(Animals);
 let randomFamily = randomArrayItem(randomKingdom);
 function randomAnimal(family) {
-    let familyMember = randomArrayItem(family);
-    if (isObject(familyMember)) {
-        return familyMember.name;
-    } else if (isArray(familyMember)) {
-        return randomArrayItem(familyMember).name;
-    } else
-        return "error";
+  let familyMember = randomArrayItem(family);
+  if (isObject(familyMember)) {
+    return familyMember.name;
+  } else if (isArray(familyMember)) {
+    return randomArrayItem(familyMember).name;
+  } else return "error";
 }
 
 generateChimera = () =>
-  (document.getElementById("01").innerHTML = `${randomAnimal(Animals.flat(Infinity))} - ${randomAnimal(Animals.flat(Infinity))} `);
+  (document.getElementById("01").innerHTML = `${randomAnimal(
+    Animals.flat(Infinity)
+  )} - ${randomAnimal(Animals.flat(Infinity))} `);
 
-  console.log(`${randomAnimal(Animals.flat(Infinity))} - ${randomAnimal(Animals.flat(Infinity))} `);
+console.log(
+  `${randomAnimal(Animals.flat(Infinity))} - ${randomAnimal(
+    Animals.flat(Infinity)
+  )} `
+);
