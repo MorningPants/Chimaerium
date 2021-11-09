@@ -898,7 +898,7 @@ randomArrayItem = (array) => {
   if (isArray(array)) {
     return array[Math.floor(Math.random() * array.length)];
   }
-  else 'error'
+  else return 'error'
 };
 
 let randomKingdom = randomArrayItem(Animals);
@@ -906,14 +906,14 @@ let randomFamily = randomArrayItem(randomKingdom);
 function randomAnimal(family) {
     let familyMember = randomArrayItem(family);
     if (isObject(familyMember)) {
-        familyMember.name;
+        return familyMember.name;
     } else if (isArray(familyMember)) {
-        randomArrayItem(familyMember).name;
+        return randomArrayItem(familyMember).name;
     } else
-        "error";
+        return "error";
 }
 
 generateChimera = () =>
-  (document.getElementById("01").innerHTML = randomAnimal(Primates));
+  (document.getElementById("01").innerHTML = `${randomAnimal(Primates)} - ${randomAnimal(Primates)} `);
 
-  console.log((randomArrayItem(Primates)));
+  console.log(`${randomAnimal(Primates)} - ${randomAnimal(Primates)} `);
