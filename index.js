@@ -772,6 +772,80 @@ Rabbits = [];
 Pigs = [];
 Armored_Mammals = [];
 Obscure_Mammals = [];
+ Songbirds= [];
+  Hunting_Birds= [];
+  Wading_Birds= [];
+  Flightless_Birds= [];
+  Tropical_Birds= [];
+  Swimming_Birds= [];
+  Hummingbirds= [];
+  Chickens= [];
+  Seabirds= [];
+  Large_Seabirds= [];
+  Common_Birds= [];
+  Snakes= [];
+  Lizards= [];
+  Turtles= [];
+  Alligators= [];
+  Frogs= [];
+  Salamanders= [];
+  Thick_Finned_Fish= [];
+  Thin_Finned_Fish= [];
+  Aquatic_Mammals= [];
+  Sharks= [];
+  Lampreys= [];
+  Jawless= [];
+  Seahorses= [];
+  Rays= [];
+  Spiders= [];
+  Dragonflies= [];
+  Flies= [];
+  Ants= [];
+  Beetles= [];
+  Bees= [];
+  Stickbugs= [];
+  Ticks= [];
+  Gnats= [];
+  Worms= [];
+  Pillbugs= [];
+  Snails= [];
+  Slugs= [];
+  Leeches= [];
+  Scorpions= [];
+  Butterflies= [];
+  Grasshoppers= [];
+  Lacewings= [];
+  Caddisflies= [];
+  Cockroaches= [];
+  Termites= [];
+  Thrips= [];
+  Lice= [];
+  Stoneflies= [];
+  Mayflies= [];
+  Mantis= [];
+  Flea= [];
+  Earwigs= [];
+  Scorpionflies= [];
+  Silverfish= [];
+  Aphids= [];
+  Spittlebugs= [];
+  Shieldbugs= [];
+  Planthoppers= [];
+  Thornbugs= [];
+  Cicadas= [];
+   Octopi= [];
+  Shrimp= [];
+  Crustaceans= [];
+  Squid= [];
+  Jellyfish= [];
+  Urchins= [];
+  Sponges= [];
+  Starfish= [];
+  Anemones= [];
+  Molluscs= [];
+  Barnacles= [];
+  Clams= [];
+  Sea_Cucumbers= [];
 
 /*finally organize by Kingdom*/
 
@@ -822,17 +896,17 @@ Aquatic_Vertebrates = [
   Lampreys,
   Jawless,
   Seahorses,
-  Rays,
+  Rays
 ];
 
 Insectoids = [
   Spiders,
-  dragonflies,
+  Dragonflies,
   Flies,
   Ants,
   Beetles,
   Bees,
-  stickbugs,
+  Stickbugs,
   Ticks,
   Gnats,
   Worms,
