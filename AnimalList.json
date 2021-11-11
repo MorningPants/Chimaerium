@@ -1,0 +1,27 @@
+{
+"common animals" : [
+{
+"name":"Lion",
+"family":["Mammal","Big_Cat","Carnivore"],
+"features":["Mane","Spine","Mouth_Carnivore"],
+"height": 200,
+"weight": 400,
+"topspeed": 600,
+"jumpheight":800,
+"lifespan":20
+},
+{
+"name":"Gorilla",
+"family":["Mammal","Primate"],
+"features":["Biped","Spine","Mouth_Omnivore"],
+"height": 200,
+"weight": 400,
+"topspeed": 600,
+"jumpheight":800,
+"lifespan":20
+}
+],
+"uncommon animals" : [],
+"rare animals" : [],
+"obscure animals" : []
+}
