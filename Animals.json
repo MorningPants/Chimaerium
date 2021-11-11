@@ -1,0 +1,99 @@
+{
+  "animals": {
+    "arthropods": {
+      "features": {
+        "spine": "Exoskeleton"
+      },
+      "trilobites": {},
+      "chelicerates": {},
+      "myriapods": {},
+      "crustaceans": {
+        "seed shrimp": {},
+        "mystacocarida": {},
+        "fish lice": {},
+        "thecostraca": {},
+        "copepods": {},
+        "malacostraca": {},
+        "horseshoe shrimp": {},
+        "branchiopoda": {},
+        "remipedes": {},
+        "hexapoda": {
+          "insects": {}
+        }
+      }
+    },
+    "molluscs": {
+      "gastropods": {},
+      "bivalves": {},
+      "chitons": {},
+      "cephalopods": {},
+      "scaphopods": {},
+      "worm molluscs": {},
+      "monoplacophora": {},
+      "rostroconcia": {},
+      "helcionelloida": {}
+    },
+    "chordates": {
+      "vertebrates": {
+        "mammals": {
+          "features": {
+            "skin": "fur"
+          },
+          "primates": []
+        },
+        "reptiles": {},
+        "agnatha": {}
+      },
+      "tunicates": {
+        "sea squirts": {},
+        "salps": {},
+        "larvaceans": {},
+        "sorberacea": {}
+      },
+      "lancelets": {}
+    },
+    "worms": {
+      "flatworms": {},
+      "round worms": {},
+      "segmented worms": {},
+      "ribbon worms": {},
+      "gastrotrinch worms ": {},
+      "gordian worms": {},
+      "velvet worms": {},
+      "goblet worms": {},
+      "acorn worms": {},
+      "arrow worms": {},
+      "jaw worms": {},
+      "priapus worms": {},
+      "horseshoe worms": {}
+    },
+    "cnidarians": {},
+    "sponges": {},
+    "echinoderms": {},
+    "ectoprocts": {},
+    "rotifers": {},
+    "tardigras": {},
+    "xenacoelomorpha": {},
+    "lampshells": {},
+    "kinorhycha": {},
+    "loricefera": {},
+    "rhombozoans": {},
+    "camb jellies": {},
+    "symbions": {},
+    "placozoa": {},
+    "micrognathozoa": {},
+    "medusoids": {},
+    "trilobites?": {},
+    "vetulicolia": {},
+    "ivesheadiomorphs": {},
+    "archaeocyatha": {},
+    "pentalonamae": {},
+    "proarticulata": {},
+    "saccorhytus": {},
+    "agmata": {}
+  },
+  "plants": {},
+  "fungi": {},
+  "protist": {},
+  "monera": {}
+}

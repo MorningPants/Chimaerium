@@ -312,7 +312,7 @@ let VerticalSpine,
 
 Humanoid = {
   name: "Humanoid",
-  iconic_features: [Hand, VerticalSpine, Nose],
+  iconic_features: [Hand, VerticalSpine, Face],
   features: { spine: VerticalSpine, skin: Fur, hands: Hand, feet: Foot },
   weight: 150,
   lifespan: 70,
@@ -1630,3 +1630,5 @@ console.log(
     Animals.flat(Infinity)
   )} `
 );
+
+console.log(Animals.flat(Infinity))
