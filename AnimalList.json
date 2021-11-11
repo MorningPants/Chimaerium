@@ -3,22 +3,38 @@
 {
 "name":"Lion",
 "family":["Mammal","Big_Cat","Carnivore"],
-"features":["Mane","Spine","Mouth_Carnivore"],
-"height": 200,
-"weight": 400,
-"topspeed": 600,
-"jumpheight":800,
-"lifespan":20
+"features":["Sharp Teeth","Snout","Eyes","Nose", "Whiskers","Ears", "Muscular Body", "Tail", "Round Head", "Paws", "Claws"],
+"male_features":["Mane"],
+"iconic_features":["Mane","Tail","Roar"],
+"spine":true,
+"movement":"Quadruped",
+"diet":"Carnivore",
+"skin":{"body":"Fur"}
+"colors":["#C69452","#E1D6BA","#B16D12","#8A4900","#140901"],
+"tail_length": 86,
+"height": 110,
+"length":184,
+"min_weight": 110,
+"max_weight": 186,
+"topspeed": 80,
+"jumpheight":1200,
+"lifespan":16
 },
 {
 "name":"Gorilla",
 "family":["Mammal","Primate"],
-"features":["Biped","Spine","Mouth_Omnivore"],
-"height": 200,
-"weight": 400,
-"topspeed": 600,
-"jumpheight":800,
-"lifespan":20
+"features":["Face", "Protruded Jaw", "Nose","Ears","Muscular Body","Long Arms","Hands","Feet","Fingers"],
+"iconic_features":["Arms","Protruded Jaw"]
+"spine":true,
+"movement":"Biped",
+"diet":"Herbivore",
+"skin":{"body":"Fur", "face":"Skin"},
+"height": 155,
+"min_weight": 100,
+"max_weight": 270,
+"topspeed": 33,
+"jumpheight":900,
+"lifespan":37
 }
 ],
 "uncommon animals" : [],
