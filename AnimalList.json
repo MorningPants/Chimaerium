@@ -24,7 +24,7 @@
 "name":"Gorilla",
 "family":["Mammal","Primate"],
 "features":["Face", "Protruded Jaw", "Nose","Ears","Muscular Body","Long Arms","Hands","Feet","Fingers"],
-"iconic_features":["Arms","Protruded Jaw"]
+"iconic_features":["Arms","Protruded Jaw"],
 "spine":true,
 "movement":"Biped",
 "diet":"Herbivore",
@@ -35,6 +35,21 @@
 "topspeed": 33,
 "jumpheight":900,
 "lifespan":37
+},
+{
+"name":"Elephant",
+"family":["Mammal","Behemoth"],
+"features":["Trunk","Tusks","Ears","Thick Legs","Round Flat Feet","Eyes","Tail" "Thick Body"],
+"spine":true,
+"movement":"Quadruped",
+"diet":"Herbivore",
+"skin":{"body":"skin"},
+"height": 320,
+"min_weight": 5200,
+"max_weight": 6900,
+"topspeed": 25,
+"jumpheight":0,
+"lifespan":70
 }
 ],
 "uncommon animals" : [],
