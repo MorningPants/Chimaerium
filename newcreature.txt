@@ -1,0 +1,61 @@
+There are three ways a new creature can be created.
+
+1. Genesis
+
+Upon creating a Chimærium account, or at any point a user desires, they can create a single celled organism, a microscopic Chimæra with no features or abilities.
+
+This creature is called a Genecyte, and it weighs only 1 femtogram: 10^-15 g.
+
+This creature can be used to play the ‘Primordial Soup’ game, earning algae which can be used to feed the creature.
+
+The smaller the creature, the smaller the lifespan. Generally a Chimæra will live 1/100th as long as its real world counterpart.  
+
+A Genecyte will only live a few minutes, so in that time you must feed and train it to make it larger, and collect the eggs it gives.
+
+Generally eggs will weigh 1/50th of the mother’s weight.  Healthy creatures will weigh more, giving larger eggs to hatch into larger creatures. 
+
+If fed and trained optimally, a Chimæra can create a child up to 1.5 times its size * (may vary to produce optimal experience)* 
+
+Microscopic Chimæras reproduce asexually, so no fertilization is required at this stage.
+
+2. Asexual Reproduction 
+
+Up to the size of 1g, where vertebrates start to appear, all Chimæras reproduce asexually. 
+
+Unlike true asexual reproduction, Chimæra eggs will always have some amount of diversity from their parents.
+
+All Chimæras, except the initial Genecyte, are composed of at least two animals: A Primary Animal of its weight class, and a Secondary Animal of any weight class. Typically, Chimæras have the body of their primary animal, and features of the secondary animal.
+
+Asexual reproduction selects the two animals in the following way:
+
+1: Get a random microscopic animal from the current weight class to be the primary animal.
+
+2. If the parent has a secondary animal, choose a random family of that animal, then choose a random animal from that family.
+
+For example, if the parent is an amoeba-tiger, the secondary animal will be chosen by picking a random family of the tiger (Mammal, Carnivore, Feline), then picking a random animal from that family.
+
+
+
+Sexual Reproduction:
+
+Once chimaeras reach ~1mg in weight, a number of changes occur. They no longer have microscopic animals as their primary animal. They also now have genders, and require a seed from a male in order to fertilize an egg from a female.
+
+Each egg still weighs ~1/50th of the weight of the mother when it lays the egg. 
+
+Here is how the primary and secondary animals of the egg are determined:
+
+Primary Animal- the list of all animals is first filtered to only include animals in the proper weight range. The 
+
+
+
+
+
+
+
+Resource: https://resources.sdhumane.org/Programs_and_Services/Adoption_Resources/Animal_Size_and_Weight_Chart
+
+
+
+
+
+
